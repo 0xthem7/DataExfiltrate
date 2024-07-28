@@ -1,4 +1,7 @@
 # DataExfiltrate
+
+Convert mysql database backup to csv format for easy view and easy data manipulation 
+
 ### Usages
 ```
 ./mysql-to-csv.sh -u user -d database -o output -t table
